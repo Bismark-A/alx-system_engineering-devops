@@ -1,2 +1,1 @@
- #!/bin/bash
- This is a readme fike for shell basics
+Display the contents of your current directory in a long format
